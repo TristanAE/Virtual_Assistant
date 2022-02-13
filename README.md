@@ -32,7 +32,14 @@ Assistant virtuel complet
 -------------------------------
 - Allumer le néon de leds [Néon_circle](https://github.com/TristanAE/Neon-circle)
 - Allumer leds Hue + contrôle luminosité et couleurs
+- Activation caméra surveillance 
 
+
+
+
+# Caméra surveillance
+
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/92324336/153760830-63c633d3-5679-442a-8883-5b0cf5aa68b2.gif)
 
 
 # Bonus
