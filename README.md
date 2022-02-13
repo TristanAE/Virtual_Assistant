@@ -37,6 +37,7 @@ Assistant virtuel complet
 
 # Bonus
 
-Hologramme assistant virtuel!
+Hologramme assistant virtuel
 
-[Uploading ezgif.com-gif-maker (5).gif…]()
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/92324336/153745273-b5412ad2-d217-45d8-bd0a-0b76d2c7c7b1.gif)
+
