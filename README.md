@@ -5,18 +5,18 @@ Assistant virtuel complet
 
 - Activation par reconnaissance vocale de son nom
 - Reconnaissance faciale de l'individu
-- - Si non reconnu : envoie photo par mail + ordinateur s'éteind 
+- - Si non reconnu : envoie photo par mail + ordinateur s'éteint
 - Reconnaissance vocale des instructions + réponse vocale
 
 -------------------------------
 - Heure
 - Date
-- Méteo + conseil de vêtements en fonction de la température
+- Météo + conseil de vêtements en fonction de la température
 - Mettre de la musique : par nom, aléatoire, pause, suivant, précédent
-- Gestion de rappels: Ajouter, supprimer, ennoner
+- Gestion de rappels: Ajouter, supprimer, énoncer
 - Envoi Mail
 - Liste des anniversaires 
-- Jours feriés en fonction du lieu et de l'année
+- Jours fériés en fonction du lieu et de l'année
 - Population d'une commune
 - Recherche via Wikipédia
 - Citation
@@ -31,4 +31,12 @@ Assistant virtuel complet
 
 -------------------------------
 - Allumer le néon de leds [Néon_circle](https://github.com/TristanAE/Neon-circle)
-- Allumer leds Hue + controle luminosité et couleurs
+- Allumer leds Hue + contrôle luminosité et couleurs
+
+
+
+# Bonus
+
+Hologramme assistant virtuel!
+
+[Uploading ezgif.com-gif-maker (5).gif…]()
