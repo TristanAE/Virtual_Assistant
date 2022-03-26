@@ -1,5 +1,5 @@
 # Virtual_Assistant
-Assistant virtuel complet
+Assistant virtuel complet en Python
 
 # Fonctionnalités de l'assistant virtuel
 
